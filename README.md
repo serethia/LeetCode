@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/serethia/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/serethia/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/serethia/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/serethia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/serethia/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/serethia/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/serethia/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/serethia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/serethia/LeetCode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/serethia/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/serethia/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
