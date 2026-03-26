@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/serethia/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/serethia/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/serethia/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/serethia/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/serethia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/serethia/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/serethia/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/serethia/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/serethia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Graph Theory
 |  |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/serethia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/serethia/LeetCode/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/serethia/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
