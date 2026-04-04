@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/serethia/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/serethia/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/serethia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/serethia/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/serethia/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/serethia/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/serethia/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/serethia/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/serethia/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/serethia/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/serethia/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/serethia/LeetCode/tree/master/0290-word-pattern) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/serethia/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/serethia/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/serethia/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/serethia/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/serethia/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/serethia/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/serethia/LeetCode/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/serethia/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/serethia/LeetCode/tree/master/0994-rotting-oranges) |
@@ -436,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/serethia/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/serethia/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/serethia/LeetCode/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
