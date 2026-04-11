@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/serethia/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/serethia/LeetCode/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/serethia/LeetCode/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/serethia/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/serethia/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1603-design-parking-system](https://github.com/serethia/LeetCode/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/serethia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/serethia/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/serethia/LeetCode/tree/master/0289-game-of-life) |
+| [1603-design-parking-system](https://github.com/serethia/LeetCode/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
