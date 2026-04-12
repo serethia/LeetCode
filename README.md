@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/serethia/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/serethia/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/serethia/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/serethia/LeetCode/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/serethia/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/serethia/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/serethia/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/serethia/LeetCode/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
