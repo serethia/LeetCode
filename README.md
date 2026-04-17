@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/serethia/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/serethia/LeetCode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 ## Design
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/serethia/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/serethia/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/serethia/LeetCode/tree/master/0443-string-compression) |
+| [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 ## Trie
 |  |
 | ------- |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/serethia/LeetCode/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
