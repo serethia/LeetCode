@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/serethia/LeetCode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/serethia/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/serethia/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/serethia/LeetCode/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/serethia/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/serethia/LeetCode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/serethia/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/serethia/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/serethia/LeetCode/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1603-design-parking-system](https://github.com/serethia/LeetCode/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/serethia/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/serethia/LeetCode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/serethia/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/serethia/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
