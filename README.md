@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/serethia/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/serethia/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/serethia/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/serethia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/serethia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/serethia/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/serethia/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/serethia/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/serethia/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/serethia/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/serethia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/serethia/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/serethia/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/serethia/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/serethia/LeetCode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/serethia/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/serethia/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/serethia/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
