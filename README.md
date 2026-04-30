@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/serethia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/serethia/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/serethia/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/serethia/LeetCode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/serethia/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/serethia/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/serethia/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/serethia/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/serethia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Graph Theory
 |  |
