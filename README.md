@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/serethia/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/serethia/LeetCode/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/serethia/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/serethia/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/serethia/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/serethia/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/serethia/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/serethia/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/serethia/LeetCode/tree/master/0190-reverse-bits) |
+| [0427-construct-quad-tree](https://github.com/serethia/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/serethia/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/serethia/LeetCode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/serethia/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/serethia/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/serethia/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/serethia/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/serethia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/serethia/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/serethia/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/serethia/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/serethia/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/serethia/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
