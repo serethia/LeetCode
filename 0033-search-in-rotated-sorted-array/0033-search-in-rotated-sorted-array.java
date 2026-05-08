@@ -56,4 +56,33 @@ class Solution {
         // [3'] 없으면 -1 반환
         return -1;
     }
+
+    // * 권장 코드: 투 포인터 없이 이분 탐색
+    // 기존 코드에서 회전 시작점 없앤 코드:
+    //public int search(int[] nums, int target) {
+    //int st = 0;
+    //int ed = nums.length - 1;
+    //while(st <= ed){
+    //int mid = st + (ed - st)/2;
+    //if(nums[mid] == target){
+    //return mid;
+    //}
+    //}
+    //if(nums[st] <= nums[mid]){
+    // [1] 왼쪽 범위가 완전한 오름차순
+    //if(target >= nums[st] && target < nums[mid]){
+    //ed = mid - 1; // 좌측 구간
+    //} else {
+    //st = mid + 1; // 우측 구간
+    //}
+    //} else {
+    // [2] 오른쪽 범위가 완전한 오름차순
+    //if(target <= nums[ed] && target > nums[mid]){
+    //st = mid + 1; // 우측 구간
+    //} else {
+    //ed = mid - 1; // 좌측 구간
+    //}
+    //}
+    //return -1; // 없으면 -1 반환
+    //}
 }
