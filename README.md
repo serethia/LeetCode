@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/serethia/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/serethia/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/serethia/LeetCode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/serethia/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/serethia/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/serethia/LeetCode/tree/master/0443-string-compression) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/serethia/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/serethia/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/serethia/LeetCode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/serethia/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/serethia/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/serethia/LeetCode/tree/master/0502-ipo) |
 ## Hash Table
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/serethia/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/serethia/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/serethia/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/serethia/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/serethia/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1603-design-parking-system](https://github.com/serethia/LeetCode/tree/master/1603-design-parking-system) |
 ## Randomized
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/serethia/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/serethia/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/serethia/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/serethia/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/serethia/LeetCode/tree/master/0502-ipo) |
 ## Queue
@@ -580,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/serethia/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/serethia/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
